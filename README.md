@@ -71,8 +71,7 @@ print(f"Accuracy: {accuracy * 100:.2f}%")
 ## Conclusion
 This project provides a simple yet effective implementation of a **Decision Tree Classifier**. The Iris dataset serves as a great starting point to understand decision trees, their visual representation, and how they classify data.
 
----
-**Author:** [Your Name]  
-**Date:** [Date]  
-**License:** MIT
+
+
+
 
