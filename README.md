@@ -132,8 +132,6 @@ print(f"Mean Squared Error: {mse:.4f}")
 - Change `max_depth` to **increase or decrease tree complexity**.
 - Use `criterion="entropy"` instead of `gini` for **information gain-based splitting**.
 - Adjust `test_size` in `train_test_split` to modify train-test ratio.
-- Change `max_depth` to **increase or decrease tree complexity**.
-- Adjust `test_size` in `train_test_split` to modify train-test ratio.
 - Experiment with different **feature generation methods** to simulate real-world data.
 
  
